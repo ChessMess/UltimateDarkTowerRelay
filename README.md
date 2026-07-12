@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> **This project has moved.** `UltimateDarkTowerRelay` is now part of the
+> [UltimateDarkTower monorepo](https://github.com/ChessMess/UltimateDarkTower) at `packages/relay-{shared,core,client} + apps/relay-{cli,electron}`.
+> Development continues there; this repository is **archived / read-only**.
+> Full git history was preserved (tags prefixed `relay-*`).
+
 # UltimateDarkTowerRelay
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
